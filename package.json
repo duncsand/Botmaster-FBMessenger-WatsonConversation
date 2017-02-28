@@ -20,5 +20,8 @@
     "cfenv": "^1.0.3",
     "request-promise": "^4.1.1",
     "watson-developer-cloud": "^2.11.0"
+  },
+  "engines": {
+    "node": "7.x"
   }
 }
